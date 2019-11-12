@@ -8,16 +8,16 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "http://kacrandall.github.io/websitedemo"
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # Name of website
-title: My Data Science Project
+title: Keith A. Crandall
 
 # Short description of your site
-description: Here's the description of my project
+description: Keith Crandall's Personal Website
 
 # --- Navigation bar options --- #
 
@@ -42,8 +42,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
+  name: Keith A Crandall
+  email: "kcrandall@gwu.edu"
   facebook: yourfacebook
   github: yourgithub
   twitter: yourtwitter
